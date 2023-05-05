@@ -3,7 +3,7 @@
 A website designed for online food ordering, developed by using React JS, Node JS and MongoDB.
 
 <h1>Landing Page</h1>
-<img src="https://github.com/saske999cz/Music-Web-App/blob/master/pic4.png">
+<img src="https://github.com/saske999cz/foodngo/blob/feature/user-account/src/image/landpage.png">
 
 <br>
 <br>
