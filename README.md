@@ -1,4 +1,4 @@
-# Online food delivery website
+# Online food ordering website
 
 A website designed for online food ordering, developed by using React JS, Node JS and MongoDB.
 
