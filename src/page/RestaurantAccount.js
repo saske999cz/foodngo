@@ -402,7 +402,7 @@ const CurrentForm = () => {
       },
   ];
   return (
-    <Table rowSelection={rowSelection} columns={columns} dataSource={data} />
+    <Table className="current_table" rowSelection={rowSelection} columns={columns} dataSource={data} />
   );
 };
 const HistoryForm = () => {
