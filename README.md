@@ -8,25 +8,23 @@ A website designed for online food ordering, developed by using React JS, Node J
 <br>
 <br>
 <h1>Login Page</h1>
-<img src="https://github.com/saske999cz/Music-Web-App/blob/master/pic4.png">
+<img src="https://github.com/saske999cz/foodngo/blob/feature/user-account/src/image/login.png">
 
 <br>
 <br>
 <h1>Sign up Page</h1>
-<img src="https://github.com/saske999cz/Music-Web-App/blob/master/pic1.png">
-<img src="https://github.com/saske999cz/Music-Web-App/blob/master/pic3.png">
+<img src="https://github.com/saske999cz/foodngo/blob/feature/user-account/src/image/signup.png">
+<img src="https://github.com/saske999cz/foodngo/blob/feature/user-account/src/image/signup1.png">
 
 <br>
 <br>
-<h1>User Page</h1>
-<img src="https://github.com/saske999cz/Music-Web-App/blob/master/pic2.png">
+<h1>Home Page</h1>
+<img src="https://github.com/saske999cz/foodngo/blob/feature/user-account/src/image/food.png">
 
 <br>
 <br>
-<h1>Admin Page</h1>
-<img src="https://github.com/saske999cz/Music-Web-App/blob/master/pic 5.png">
+<h1>Restaurant Detail Page</h1>
+<img src="https://github.com/saske999cz/foodngo/blob/feature/user-account/src/image/restaurant.png">
 <br>
-<img src="https://github.com/saske999cz/Music-Web-App/blob/master/pic8.png">
-<br>
-<img src="https://github.com/saske999cz/Music-Web-App/blob/master/pic9.png">
+
 
